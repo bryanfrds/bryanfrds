@@ -10,4 +10,4 @@
 | [**pr-reactions**](https://github.com/bryanfrds/pr-reactions) | A Claude Code hook that pops up a picture and plays a sound when an AI code review approves or rejects a pull request. | macOS |
 | [**herdr-game-pane**](https://github.com/bryanfrds/herdr-game-pane) | Streams those two games into a terminal side pane while Claude Code is busy, using a headless browser. | |
 
-CodeMon, Pixel Dungeon and pr-reactions have automated tests that run on every pull request.
+Every project here has automated tests that run on every pull request.
