@@ -1,9 +1,12 @@
+**Hi, I'm Bryan.** Software Engineer and AI Engineer at DEX Ventures, and a third-year Software Engineering student in Malaysia (graduating 2027). I build AI tools and automation in TypeScript, JavaScript, Swift and Python, and ship them with tests and code review.
+
 <img src="nice.gif" width="100%" alt="Rickroll">
 
 ## Things I've built
 
 | Project | What it is | Try it |
 |---|---|---|
+| [**VoiceType**](https://github.com/bryanfrds/voice-type) | An on-device dictation app for macOS: hold Ctrl + Option, talk, let go, and the words are typed wherever you are. Live words as you speak, and meeting notes with a summary and action items. Windows version coming soon. | macOS |
 | [**Gauge**](https://github.com/bryanfrds/Gauge) | A small open-source AI that picks the answer from a list and says how sure it is. Trained on a laptop, it went from 73.6% to 90.5% on finance tweets it had never seen. | [Read the post](https://www.linkedin.com/posts/bryanljy07_ai-machinelearning-opensource-activity-7513125556532498432-o6Be) |
 | [**CodeMon**](https://github.com/bryanfrds/Codemon) | A creature-collecting RPG in plain JavaScript: 1,000 CodeMon, type matchups, evolution, area guardians, trainer battles, sound and a shop. It can play itself. | [▶ Play](https://bryanfrds.github.io/Codemon/) |
 | [**Pixel Dungeon**](https://github.com/bryanfrds/dragons-dungeon-game) | A dungeon crawler where the AI fixes "bugs" floor by floor while you work. Procedural floors, loot and a shop between floors. | [▶ Play](https://bryanfrds.github.io/dragons-dungeon-game/) |
