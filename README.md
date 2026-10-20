@@ -1,4 +1,4 @@
-**Hi, I'm Bryan.** Software Engineer and AI Engineer at DEX Ventures, and a third-year Software Engineering student in Malaysia (graduating 2027). I build AI tools and automation, in TypeScript, JavaScript, Swift and Python, and ship them with tests and code review.
+**Hi, I'm Bryan.** Software Engineer and AI Engineer at DEX Ventures, and a third-year Software Engineering student in Malaysia (graduating 2027). I build AI tools and automation in TypeScript, JavaScript, Swift and Python, and ship them with tests and code review.
 
 <img src="nice.gif" width="100%" alt="Rickroll">
 
