@@ -2,6 +2,18 @@
 
 <img src="nice.gif" width="100%" alt="Rickroll">
 
+## osu! replays
+
+
+
+https://github.com/user-attachments/assets/9e73f713-b81b-4b56-9e61-7ab917c7e759
+
+
+
+https://github.com/user-attachments/assets/43017535-9d0b-4594-88ab-2200f64ed20c
+
+
+
 ## Things I've built
 
 | Project | What it is | Try it |
